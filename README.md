@@ -1,5 +1,7 @@
 # 위판가 직거래 플랫폼 "오늘바다"
 
+**오늘바다의 자세한 개발과정과 고민들은 [이곳](https://sequoia-dust-a86.notion.site/2e6248499b83457f8d882c62b8c78285)에서 확인하실 수 있습니다.**
+
 <div>
   <img alt="오늘바다 소개" src="./src/views/assets/image/banner2.png">
 </div>
